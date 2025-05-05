@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#movimientoActual {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+footer{
+    border-radius: 20px;
+}
