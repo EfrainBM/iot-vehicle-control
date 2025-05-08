@@ -1,4 +1,4 @@
-const API_URL = "http://44.200.221.164:5000/api/devices";
+const API_URL = "http://44.199.198.188:5000/api/devices";
 
 // Variable global para guardar la IP pública
 let ipPublica = "";
