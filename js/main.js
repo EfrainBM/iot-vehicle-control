@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:5000/api/devices";
+const API_URL = "http://13.219.233.233:5000/api/devices";
 let ipPublica = "";
 let grabando = false;
 let comandosGrabados = [];
